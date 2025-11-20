@@ -39,10 +39,10 @@
 Below is the primary visual theme inspiration used for the tool:
 </p>
 
-<img src="YOUR_SCREENSHOT_LINK" alt="Neon Theme" width="80%">
+<img src="C:\Users\deepu\Desktop\my projects\log-intrusion-analyzer\Screenshot 2025-11-20 193723.png" alt="Neon Theme" width="80%">
 
 <p>
-Add your GUI screenshots in this section after uploading to GitHub.
+
 </p>
 
 <hr>
