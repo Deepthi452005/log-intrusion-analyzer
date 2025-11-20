@@ -1,0 +1,2 @@
+time,ip,category,details,unique_urls,time_window,request_count,blacklisted
+2025-01-10 06:30:00,203.0.113.12,SSH Brute Force,6 failed logins within 5 min,,,,False
