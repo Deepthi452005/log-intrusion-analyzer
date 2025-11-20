@@ -33,13 +33,6 @@
 
 <hr>
 
-<h2 style="color:#00f5ff;">🎨 Interface Preview</h2>
-
-<p>
-Below is the primary visual theme inspiration used for the tool:
-</p>
-
-<img src="C:\Users\deepu\Desktop\my projects\log-intrusion-analyzer\Screenshot 2025-11-20 193723.png" alt="Neon Theme" width="80%">
 
 <p>
 
@@ -119,10 +112,9 @@ python main.py
 <h2 style="color:#00f5ff;">📊 Charts Output</h2>
 
 <p>
-All charts are displayed in vertical bar format, similar to this:
+All charts are displayed in vertical bar format
 </p>
 
-<img src="YOUR_CHART_IMAGE_LINK" width="70%">
 
 <hr>
 
